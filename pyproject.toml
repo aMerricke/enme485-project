@@ -1,0 +1,15 @@
+[project]
+name = "industrial-ai-project-1"
+version = "0.1.0"
+description = "Baseline: Etcher health assessment"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.0",
+    "scipy>=1.14",
+    "scikit-learn>=1.5",
+    "matplotlib>=3.9",
+    "pandas>=2.2",
+    "openpyxl>=3.1",
+    "xlrd>=2.0",
+    "joblib>=1.4",
+]
